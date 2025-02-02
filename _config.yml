@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Muhammad Awais Hussain"
 title_separator          : "-"
 name                     : &name "Muhammad Awais Hussain"
-description              : &description "PhD Candidate at National Central University, Taiwan"
+description              : &description "Senior Staff DFT Engineer, SiliconAuto, Taiwan"
 url                      : https://maawais.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "maawais/maawais.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &MAwaisHussain6
+  username               : # &MAwaisHussain6
 facebook:
   username               : 
   app_id                 :
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Muhammad Awais Hussain"
-  avatar           : "home_pic.jpg"
-  bio              : "PhD Candidate"
-  location         : "Zhongli, Taiwan"
+  avatar           : "home_pic.png"
+  bio              : "Senior Staff DFT Engineer"
+  location         : "Hsinchu, Taiwan"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fcrvehEAAAAJ&hl=en"
-  email            : "awais.hussain@dsp.ee.ncu.edu.tw"
+  email            : "awais.hussain6@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Muhammad_Awais_Hussain2"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "MAwaisHussain6"
+  twitter          : # "MAwaisHussain6"
   vine             :
   weibo            :
   xing             :
