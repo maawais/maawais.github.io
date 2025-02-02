@@ -7,13 +7,16 @@ author_profile: true
 
 ## Current Projects
 
-- Incremental Learning
-  - Funding Agency: Industrial Technology Research Institute, Taiwan
-  - As part of my PhD research, I have been working on the development of an algorithm for class incremental learning in Deep Neural Networks (DNNs). The main aims of the algorithm development are to develop a hardware friendly and high performance incremental learning technique.
-- Learning On-Chip
-  - As part of my PhD research, I have been working on the development of an on-line learning chip that is able to perform inference as well as training on the chip. The main goal of this research is to develop a digital hardware design in such a way that it brings the possibility of optimizing and training a Deep Neural Network (DNN) model on the edge. 
+- The details of current projects cannot be made public as these projects are under NDA.
 
 ## Previous Projects
+
+- Incremental Learning
+
+  - Funding Agency: Industrial Technology Research Institute, Taiwan
+  - As part of my PhD research, I have worked on the development of an algorithm for class incremental learning in Deep Neural Networks (DNNs). The main aims of the algorithm development were to develop a hardware friendly and high performance incremental learning technique.
+- Learning On-Chip
+  - As part of my PhD research, I have worked on the development of an on-line learning chip that was able to perform inference as well as training on the chip. The main goal of this research was to develop a digital hardware design in such a way that it brings the possibility of optimizing and training a Deep Neural Network (DNN) model on the edge. 
 
 - Designing of ECG compression Chip (Master Thesis)
 
